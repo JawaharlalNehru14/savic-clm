@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/savic-clm/static/css/main.59f846e1.css",
+    "main.js": "/savic-clm/static/js/main.5ddea0ad.js",
+    "static/js/787.c4e7f8f9.chunk.js": "/savic-clm/static/js/787.c4e7f8f9.chunk.js",
+    "static/media/logoimage.jpg": "/savic-clm/static/media/logoimage.21cfca12dc962b710b7f.jpg",
+    "static/media/soon.png": "/savic-clm/static/media/soon.383912e63f47926e3074.png",
+    "static/media/logo.png": "/savic-clm/static/media/logo.c5a0fdb55eadaf67ddb1.png",
+    "index.html": "/savic-clm/index.html",
+    "main.59f846e1.css.map": "/savic-clm/static/css/main.59f846e1.css.map",
+    "main.5ddea0ad.js.map": "/savic-clm/static/js/main.5ddea0ad.js.map",
+    "787.c4e7f8f9.chunk.js.map": "/savic-clm/static/js/787.c4e7f8f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.59f846e1.css",
+    "static/js/main.5ddea0ad.js"
+  ]
+}
